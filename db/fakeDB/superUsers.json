@@ -1,0 +1,22 @@
+{
+  "superUsers": [
+    {
+      "firstName": "ali",
+      "lastName": "ahmadi",
+      "gender": "male",
+      "role": "admin"
+    },
+    {
+      "firstName": "hadi",
+      "lastName": "hashemi",
+      "gender": "male",
+      "role": "mentor"
+    },
+    {
+      "firstName": "zahra",
+      "lastName": "akbari",
+      "gender": "female",
+      "role": "mentor"
+    }
+  ]
+}

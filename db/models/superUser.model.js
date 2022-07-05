@@ -41,7 +41,7 @@ const SuperUser = connection.define(
       },
     },
     role: {
-      type: DataTypes.BOOLEAN,
+      type: DataTypes.STRING,
       defaultValue: false,
       validate: {
         isIn: {

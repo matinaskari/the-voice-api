@@ -1,0 +1,16 @@
+{
+  "Teams": [
+    {
+      "teamName": "team1",
+      "SuperUserId": "2"
+    },
+    {
+      "teamName": "team2",
+      "SuperUserId": "3"
+    },
+    {
+      "teamName": "team3",
+      "SuperUserId": "3"
+    }
+  ]
+}

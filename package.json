@@ -5,6 +5,7 @@
   "main": "app.js",
   "scripts": {
     "migrate": "node ./db/migrate.js",
+    "build": "node ./db/fakeDB/addFakeUsers.js",
     "start": "node app.js",
     "dev": "nodemon app.js"
   },

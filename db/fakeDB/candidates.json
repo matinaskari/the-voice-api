@@ -1,0 +1,40 @@
+{
+  "Candidates": [
+    {
+      "firstName": "ali",
+      "lastName": "ahmadi",
+      "gender": "male",
+      "TeamId": "1"
+    },
+    {
+      "firstName": "mohsen",
+      "lastName": "hashemi",
+      "gender": "male",
+      "TeamId": "1"
+    },
+    {
+      "firstName": "karim",
+      "lastName": "akbari",
+      "gender": "male",
+      "TeamId": "1"
+    },
+    {
+      "firstName": "zahra",
+      "lastName": "hashemi",
+      "gender": "female",
+      "TeamId": "2"
+    },
+    {
+      "firstName": "hamed",
+      "lastName": "akbari",
+      "gender": "male",
+      "TeamId": "2"
+    },
+    {
+      "firstName": "hasan",
+      "lastName": "hashemi",
+      "gender": "male",
+      "TeamId": "3"
+    }
+  ]
+}
